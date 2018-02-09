@@ -59,7 +59,7 @@ def MergeSort(my_list):
     print(my_list)
 
 
-samp_list = [8, 7, 6]
+samp_list = [8, 7, 6, 5, 4, 3, 2, 1]
 print(samp_list)
 #Merge([2,1],[4,3])
 MergeSort(samp_list)
