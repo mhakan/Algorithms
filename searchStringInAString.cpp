@@ -1,4 +1,5 @@
-//Search string in a string
+//Search char array in a char array
+//char dizisi icinde char dizisi arama
 #include <iostream>
 #include <string.h>
 using namespace std;
