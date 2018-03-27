@@ -1,3 +1,5 @@
+//This code snippet returns exponentiation using recursive approach
+
 #include <iostream>
 
 using namespace std;
